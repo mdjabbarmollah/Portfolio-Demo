@@ -9,7 +9,7 @@ framework-free foundation that's easy to extend as new projects are finished.
 
 ## Screenshot
 ![Portfolio screenshot](./images/screenshot.png)
-> Add a screenshot of the deployed site here after you publish it — replace
+
 > `screenshot.png` with your own image in this folder.
 
 ## Tech Stack
