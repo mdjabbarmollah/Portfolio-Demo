@@ -8,9 +8,9 @@ a couple of featured projects, and how to get in touch. Built as a clean,
 framework-free foundation that's easy to extend as new projects are finished.
 
 ## Screenshot
-![Portfolio screenshot](./images/screenshot.jpg)
+![Portfolio screenshot](./images/screenshot.png)
 > Add a screenshot of the deployed site here after you publish it — replace
-> `screenshot.jpg` with your own image in this folder.
+> `screenshot.png` with your own image in this folder.
 
 ## Tech Stack
 - HTML5 (semantic markup)
